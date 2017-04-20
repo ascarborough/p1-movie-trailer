@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
+</style>
+
 /***************/
 /* YOUR STYLES */
 /***************/
@@ -5,11 +9,11 @@
 /* Color Palette */
 
 .color-1 {
-    background-color: #303b70; 
+    background-color: #323151; 
 }
 
 .color-2 {
-    background-color: #215ca8;
+    background-color: #50537c;
 }
 
 .color-3 {
@@ -17,11 +21,11 @@
 }
 
 .color-4 {
-    background-color: #c50a0e;
+    background-color: #773421;
 }
 
 .color-5 {
-    background-color: #000000; 
+    background-color: #515151; 
 }
 
 /* Textures or Patterns*/
@@ -48,13 +52,43 @@
 
 /* Imagery */
 
+.imagery-1 img {
+    border: none; 
+    -webkit-box-shadow: 0 5px 10px #333;
+    box-shadow: 0 5px 10px #333;
+}
+
+.imagery-2 img {
+    border: none; 
+        -webkit-box-shadow: 0 5px 10px #333;
+    box-shadow: 0 5px 10px #333;
+}
 
 /* Icons */
 
 
 /* Navigation */
 
+a:link {
+    color: #902a26; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #515151;
+}
+
+a:hover {
+    color: #50537c;
+}
+
 
 /* Typography */
 
+h1, h2, h3 {
+    font-family: 'IM Fell Great Primer', serif;
+}
 
+p {
+    line-height: 1.5em;
+}
