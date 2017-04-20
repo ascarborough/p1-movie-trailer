@@ -1,0 +1,60 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+
+.color-1 {
+    background-color: #303b70; 
+}
+
+.color-2 {
+    background-color: #215ca8;
+}
+
+.color-3 {
+    background-color: #902a26;
+}
+
+.color-4 {
+    background-color: #c50a0e;
+}
+
+.color-5 {
+    background-color: #000000; 
+}
+
+/* Textures or Patterns*/
+
+.pattern-1 {
+    background-image: url("../img/footer_lodyas.png")
+}
+
+.pattern-2 {
+    background-image: url("../img/congruent_outline.png");
+}
+
+.pattern-3 {
+    background-image: url("../img/stardust.png");
+}
+
+.pattern-4 {
+    background-image: url("../img/black_twill.png");
+}
+
+.pattern-5 {
+    background-image: url("../img/dirty_old_shirt.png");
+}
+
+/* Imagery */
+
+
+/* Icons */
+
+
+/* Navigation */
+
+
+/* Typography */
+
+
