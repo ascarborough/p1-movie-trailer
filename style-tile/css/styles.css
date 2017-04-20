@@ -25,9 +25,6 @@
     background-color: #515151; 
 }
 
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
-
-
 /* Textures or Patterns*/
 
 .pattern-1 {
@@ -84,6 +81,7 @@ a:hover {
 
 
 /* Typography */
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
 
 h1, h2, h3 {
     font-family: 'IM Fell Great Primer', serif;
