@@ -1,6 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
-</style>
 
 /***************/
 /* YOUR STYLES */
@@ -27,6 +24,9 @@
 .color-5 {
     background-color: #515151; 
 }
+
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
+
 
 /* Textures or Patterns*/
 
