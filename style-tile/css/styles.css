@@ -3,6 +3,9 @@
 /* YOUR STYLES */
 /***************/
 
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon|IM+Fell+Great+Primer|IM+Fell+Great+Primer+SC');
+
+
 /* Color Palette */
 
 .color-1 {
@@ -154,12 +157,12 @@ button:hover {
 
 
 /* Typography */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|IM+Fell+Great+Primer');
 
 h1, h2, h3 {
     font-family: 'IM Fell Great Primer', serif;
 }
 
 p {
-    line-height: 1.5em;
+font-family: 'IM Fell French Canon', serif;
+line-height: 1.5em; 
 }
