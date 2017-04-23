@@ -162,6 +162,15 @@ h1, h2, h3 {
     font-family: 'IM Fell Great Primer', serif;
 }
 
+
+h1 {
+    color: #902a26;
+}
+
+h2, h3 {
+  color: #50537c;
+}
+
 p {
 font-family: 'IM Fell French Canon', serif;
 line-height: 1.5em; 
