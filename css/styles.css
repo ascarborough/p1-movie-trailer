@@ -17,6 +17,10 @@ body {
     position: fixed;
 }
 
+video {
+    width: 70%;
+}
+
 /* 
   width: 500px;
     height: 641px;
