@@ -1,4 +1,7 @@
 /* Styling */
+
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon|IM+Fell+Great+Primer|IM+Fell+Great+Primer+SC');
+
 body {
     color: #666;
     position: relative;
@@ -7,9 +10,22 @@ body {
     background-size: cover;
 }
 
+h1, h2, h3 {
+    font-family: 'IM Fell Great Primer', serif;
+}
 
 
-#girl {
+}
+h2, h3 {
+    color: #902a26;
+}
+
+p, li {
+font-family: 'IM Fell French Canon', serif;
+line-height: 1.5em; 
+}
+
+  #girl {
     width: 40%;
     bottom: 0;
     right: 0;
@@ -17,8 +33,43 @@ body {
     position: fixed;
 }
 
-
 /* 
   width: 500px;
     height: 641px;
 */
+
+
+#trailer {
+  width: 70%;
+  margin-top: 80px;
+  box-shadow: 5px 10px 15px black;
+}
+
+.section {
+  background-color: #515151;
+  color: black;
+  margin-top: 30px;
+  width: 50%; 
+  padding: 10px; 
+  line-height: 1.5em;
+  border: 2px solid black; 
+  margin-bottom: 30px;
+}
+
+/* Mobile: 320px = 20em */
+@media screen and (min-width: 35em) { 
+  
+}
+
+/* Tablet:  768px = 160em */
+@media screen and (min-width: 48em)  {
+
+
+}
+
+/* Desktop: 1280px = 80em */
+@media screen and (min-width: 80em) { 
+
+}
+
+
