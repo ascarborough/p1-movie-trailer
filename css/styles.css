@@ -67,15 +67,16 @@ video {
   background-color: #515151;
   color: black;
   margin-top: 30px;
-  width: 50%; 
+  width: 85%; 
   padding: 10px; 
   line-height: 1.5em;
   border: 4px solid black; 
   margin-bottom: 30px;
+  margin-left: 10px;
 }
 
 #trailer {
-max-width: 65%;
+max-width: 100%;
 padding: 0 30px 0 30px;
 }
 
@@ -129,8 +130,34 @@ li {
 
 /* Mobile: 320px = 20em */
 @media screen and (min-width: 35em) { 
+	
+      #girl {
+    display: block; 
+    width: 40%;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    position: fixed;
+}
+  
+  .section {
+  background-color: #515151;
+  color: black;
+  margin-top: 30px;
+  width: 50%; 
+  padding: 10px; 
+  line-height: 1.5em;
+  border: 4px solid black; 
+  margin-bottom: 30px;
+}
+  
+  #trailer {
+max-width: 65%;
+padding: 0 30px 0 30px;
+}
   
 }
+
 
 /* Tablet:  768px = 160em */
 @media screen and (min-width: 48em)  {
