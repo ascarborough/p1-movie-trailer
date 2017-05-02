@@ -328,7 +328,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 
 .mejs__time-current {
-    background: rgba(255, 255, 255, 0.9);
+    background: #50537c;
     width: 0;
 }
 
