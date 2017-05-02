@@ -13,4 +13,4 @@ $('h1').fitText(1);
 
 // fitVids 
 
-$('.trailer').fitVids();
+$('#trailer').fitVids();
