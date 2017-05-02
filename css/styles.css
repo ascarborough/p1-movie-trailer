@@ -62,13 +62,11 @@ video {
 .section {
   background-color: #515151;
   color: black;
-  margin-top: 30px;
   width: 85%; 
   padding: 10px; 
   line-height: 1.5em;
   border: 4px solid black; 
-  margin-bottom: 30px;
-  margin-left: 23px;
+  margin: 30px auto 30px auto;
 }
 
 #trailer {
