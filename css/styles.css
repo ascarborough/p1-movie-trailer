@@ -38,6 +38,9 @@ line-height: 1.5em;
     height: 641px;
 */
 
+video {
+    width: 100%;
+}
 
 #trailer {
   width: 70%;
