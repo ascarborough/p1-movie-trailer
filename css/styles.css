@@ -82,6 +82,7 @@ margin: auto;
 
 
 button {
+  font-size: 1em; 
   font-family: 'IM Fell French Canon', serif;
   background-color: #902a26;
   border: none; 
