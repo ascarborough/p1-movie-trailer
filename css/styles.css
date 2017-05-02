@@ -10,13 +10,9 @@ body {
     background-size: cover;
 }
 
-
   #girl {
-    width: 40%;
-    bottom: 0;
-    right: 0;
-    z-index: 2;
-    position: fixed;
+    display: none;
+    position: relative;
 }
 
 h1 {
